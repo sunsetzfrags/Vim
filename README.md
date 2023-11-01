@@ -1,1 +1,1 @@
-# Neovim SunsetZ Settings
+# Neovim Settings
