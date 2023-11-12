@@ -1,1 +1,1 @@
-# Neovim Settings
+# Neovim Settings by @sunsetzfrags
